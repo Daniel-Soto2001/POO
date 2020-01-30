@@ -1,0 +1,5 @@
+c:\users\ixtlan\documents\visual studio 2015\Projects\MiPrimerProyectoWindowsForms1\MiPrimerProyectoWindowsForms1\bin\Debug\MiPrimerProyectoWindowsForms1.exe.config
+c:\users\ixtlan\documents\visual studio 2015\Projects\MiPrimerProyectoWindowsForms1\MiPrimerProyectoWindowsForms1\obj\Debug\MiPrimerProyectoWindowsForms1.csprojResolveAssemblyReference.cache
+c:\users\ixtlan\documents\visual studio 2015\Projects\MiPrimerProyectoWindowsForms1\MiPrimerProyectoWindowsForms1\obj\Debug\MiPrimerProyectoWindowsForms1.Form1.resources
+c:\users\ixtlan\documents\visual studio 2015\Projects\MiPrimerProyectoWindowsForms1\MiPrimerProyectoWindowsForms1\obj\Debug\MiPrimerProyectoWindowsForms1.Properties.Resources.resources
+c:\users\ixtlan\documents\visual studio 2015\Projects\MiPrimerProyectoWindowsForms1\MiPrimerProyectoWindowsForms1\obj\Debug\MiPrimerProyectoWindowsForms1.csproj.GenerateResource.Cache
