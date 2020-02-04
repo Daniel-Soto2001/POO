@@ -30,10 +30,10 @@ namespace MiPrimerProyectoWindowsForms1
         private void button1_Click(object sender, EventArgs e)
         {
             int a, b, c;
-            a = Convert.ToInt32(textBox1);
-            b = Convert.ToInt32(textBox2);
+            a = Convert.ToInt32(textBox1.Text);
+            b = Convert.ToInt32(textBox2.Text);
             c = a + b;
-            label4.Text.Convert.Tostring(c);
+            label4.Text= Convert.ToString(c);
 
 
         }
