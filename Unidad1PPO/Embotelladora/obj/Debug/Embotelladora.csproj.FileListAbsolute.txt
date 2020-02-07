@@ -1,0 +1,9 @@
+G:\Unidad1PPO\Embotelladora\bin\Debug\Embotelladora.exe.config
+G:\Unidad1PPO\Embotelladora\bin\Debug\Embotelladora.exe
+G:\Unidad1PPO\Embotelladora\bin\Debug\Embotelladora.pdb
+G:\Unidad1PPO\Embotelladora\obj\Debug\Embotelladora.csprojResolveAssemblyReference.cache
+G:\Unidad1PPO\Embotelladora\obj\Debug\Embotelladora.Properties.Resources.resources
+G:\Unidad1PPO\Embotelladora\obj\Debug\Embotelladora.csproj.GenerateResource.Cache
+G:\Unidad1PPO\Embotelladora\obj\Debug\Embotelladora.exe
+G:\Unidad1PPO\Embotelladora\obj\Debug\Embotelladora.pdb
+G:\Unidad1PPO\Embotelladora\obj\Debug\Embotelladora.frmEmbotelladora.resources
