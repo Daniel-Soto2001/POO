@@ -1,0 +1,15 @@
+E:\Unidad1Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe.config
+E:\Unidad1Calificaciones\Calificaciones\obj\Debug\Calificaciones.frmCalificaciones.resources
+E:\Unidad1Calificaciones\Calificaciones\obj\Debug\Calificaciones.Properties.Resources.resources
+E:\Unidad1Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.GenerateResource.Cache
+I:\Unidad1Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe.config
+I:\Unidad1Calificaciones\Calificaciones\obj\Debug\Calificaciones.csprojResolveAssemblyReference.cache
+I:\Unidad1Calificaciones\Calificaciones\obj\Debug\Calificaciones.frmCalificaciones.resources
+I:\Unidad1Calificaciones\Calificaciones\obj\Debug\Calificaciones.Properties.Resources.resources
+I:\Unidad1Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.GenerateResource.Cache
+E:\Unidad1Calificaciones\Calificaciones\obj\Debug\Calificaciones.csprojAssemblyReference.cache
+E:\Unidad1Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.CoreCompileInputs.cache
+E:\Unidad1Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe
+E:\Unidad1Calificaciones\Calificaciones\bin\Debug\Calificaciones.pdb
+E:\Unidad1Calificaciones\Calificaciones\obj\Debug\Calificaciones.exe
+E:\Unidad1Calificaciones\Calificaciones\obj\Debug\Calificaciones.pdb
