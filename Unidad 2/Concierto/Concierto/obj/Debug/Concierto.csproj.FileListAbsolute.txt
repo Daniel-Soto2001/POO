@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\Programacion\Concierto\Concierto\bin\Debug\Concierto.exe.config
+C:\Users\Daniel\Desktop\Programacion\Concierto\Concierto\bin\Debug\Concierto.exe
+C:\Users\Daniel\Desktop\Programacion\Concierto\Concierto\bin\Debug\Concierto.pdb
+C:\Users\Daniel\Desktop\Programacion\Concierto\Concierto\obj\Debug\Concierto.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Programacion\Concierto\Concierto\obj\Debug\Concierto.frmConcierto.resources
+C:\Users\Daniel\Desktop\Programacion\Concierto\Concierto\obj\Debug\Concierto.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Programacion\Concierto\Concierto\obj\Debug\Concierto.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\Programacion\Concierto\Concierto\obj\Debug\Concierto.exe
+C:\Users\Daniel\Desktop\Programacion\Concierto\Concierto\obj\Debug\Concierto.pdb
