@@ -39,6 +39,7 @@ namespace Concierto
             objConcierto.Registro();
             cmbCuenta.Text = "";
             cmbPersonas.Text = "";
+            MessageBox.Show("Se guardaron tus datos");
         }
 
 

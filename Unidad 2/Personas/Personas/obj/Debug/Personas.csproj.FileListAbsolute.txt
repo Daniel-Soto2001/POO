@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\Programacion\Personas\Personas\bin\Debug\Personas.exe.config
+C:\Users\Daniel\Desktop\Programacion\Personas\Personas\bin\Debug\Personas.exe
+C:\Users\Daniel\Desktop\Programacion\Personas\Personas\bin\Debug\Personas.pdb
+C:\Users\Daniel\Desktop\Programacion\Personas\Personas\obj\Debug\Personas.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Programacion\Personas\Personas\obj\Debug\Personas.Form1.resources
+C:\Users\Daniel\Desktop\Programacion\Personas\Personas\obj\Debug\Personas.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Programacion\Personas\Personas\obj\Debug\Personas.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\Programacion\Personas\Personas\obj\Debug\Personas.exe
+C:\Users\Daniel\Desktop\Programacion\Personas\Personas\obj\Debug\Personas.pdb

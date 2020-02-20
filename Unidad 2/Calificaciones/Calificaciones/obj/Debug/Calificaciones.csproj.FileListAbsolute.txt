@@ -16,3 +16,6 @@ E:\Unidad1Calificaciones\Calificaciones\obj\Debug\Calificaciones.pdb
 C:\Users\Daniel\Desktop\POO\Unidad1Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe.config
 C:\Users\Daniel\Desktop\POO\Unidad1Calificaciones\Calificaciones\obj\Debug\Calificaciones.exe
 C:\Users\Daniel\Desktop\POO\Unidad1Calificaciones\Calificaciones\obj\Debug\Calificaciones.pdb
+C:\Users\Daniel\Desktop\POO\Unidad 2\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe.config
+C:\Users\Daniel\Desktop\POO\Unidad 2\Calificaciones\Calificaciones\obj\Debug\Calificaciones.exe
+C:\Users\Daniel\Desktop\POO\Unidad 2\Calificaciones\Calificaciones\obj\Debug\Calificaciones.pdb
