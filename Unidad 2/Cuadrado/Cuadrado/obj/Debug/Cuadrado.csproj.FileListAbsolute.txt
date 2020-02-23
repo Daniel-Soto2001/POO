@@ -1,0 +1,18 @@
+C:\Users\Daniel\Desktop\POO\Cuadrado\Cuadrado\bin\Debug\Cuadrado.exe.config
+C:\Users\Daniel\Desktop\POO\Cuadrado\Cuadrado\bin\Debug\Cuadrado.exe
+C:\Users\Daniel\Desktop\POO\Cuadrado\Cuadrado\bin\Debug\Cuadrado.pdb
+C:\Users\Daniel\Desktop\POO\Cuadrado\Cuadrado\obj\Debug\Cuadrado.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\POO\Cuadrado\Cuadrado\obj\Debug\Cuadrado.Form1.resources
+C:\Users\Daniel\Desktop\POO\Cuadrado\Cuadrado\obj\Debug\Cuadrado.Properties.Resources.resources
+C:\Users\Daniel\Desktop\POO\Cuadrado\Cuadrado\obj\Debug\Cuadrado.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\POO\Cuadrado\Cuadrado\obj\Debug\Cuadrado.exe
+C:\Users\Daniel\Desktop\POO\Cuadrado\Cuadrado\obj\Debug\Cuadrado.pdb
+C:\Users\Daniel\Desktop\POO\Unidad 2\Cuadrado\Cuadrado\bin\Debug\Cuadrado.exe.config
+C:\Users\Daniel\Desktop\POO\Unidad 2\Cuadrado\Cuadrado\obj\Debug\Cuadrado.exe
+C:\Users\Daniel\Desktop\POO\Unidad 2\Cuadrado\Cuadrado\obj\Debug\Cuadrado.pdb
+C:\Users\Daniel\Desktop\POO\Unidad 2\Cuadrado\Cuadrado\bin\Debug\Cuadrado.exe
+C:\Users\Daniel\Desktop\POO\Unidad 2\Cuadrado\Cuadrado\bin\Debug\Cuadrado.pdb
+C:\Users\Daniel\Desktop\POO\Unidad 2\Cuadrado\Cuadrado\obj\Debug\Cuadrado.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\POO\Unidad 2\Cuadrado\Cuadrado\obj\Debug\Cuadrado.Form1.resources
+C:\Users\Daniel\Desktop\POO\Unidad 2\Cuadrado\Cuadrado\obj\Debug\Cuadrado.Properties.Resources.resources
+C:\Users\Daniel\Desktop\POO\Unidad 2\Cuadrado\Cuadrado\obj\Debug\Cuadrado.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\POO\Temperatura\Temperatura\bin\Debug\Temperatura.exe.config
+C:\Users\Daniel\Desktop\POO\Temperatura\Temperatura\bin\Debug\Temperatura.exe
+C:\Users\Daniel\Desktop\POO\Temperatura\Temperatura\bin\Debug\Temperatura.pdb
+C:\Users\Daniel\Desktop\POO\Temperatura\Temperatura\obj\Debug\Temperatura.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\POO\Temperatura\Temperatura\obj\Debug\Temperatura.Form1.resources
+C:\Users\Daniel\Desktop\POO\Temperatura\Temperatura\obj\Debug\Temperatura.Properties.Resources.resources
+C:\Users\Daniel\Desktop\POO\Temperatura\Temperatura\obj\Debug\Temperatura.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\POO\Temperatura\Temperatura\obj\Debug\Temperatura.exe
+C:\Users\Daniel\Desktop\POO\Temperatura\Temperatura\obj\Debug\Temperatura.pdb
