@@ -7,3 +7,6 @@ C:\Users\Daniel\Desktop\POO\Temperatura\Temperatura\obj\Debug\Temperatura.Proper
 C:\Users\Daniel\Desktop\POO\Temperatura\Temperatura\obj\Debug\Temperatura.csproj.GenerateResource.Cache
 C:\Users\Daniel\Desktop\POO\Temperatura\Temperatura\obj\Debug\Temperatura.exe
 C:\Users\Daniel\Desktop\POO\Temperatura\Temperatura\obj\Debug\Temperatura.pdb
+C:\Users\Daniel\Desktop\POO\Unidad 2\Temperatura\Temperatura\bin\Debug\Temperatura.exe.config
+C:\Users\Daniel\Desktop\POO\Unidad 2\Temperatura\Temperatura\obj\Debug\Temperatura.exe
+C:\Users\Daniel\Desktop\POO\Unidad 2\Temperatura\Temperatura\obj\Debug\Temperatura.pdb

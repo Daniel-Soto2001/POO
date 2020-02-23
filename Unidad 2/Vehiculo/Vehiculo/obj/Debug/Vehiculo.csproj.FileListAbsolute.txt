@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\POO\Unidad 2\Vehiculo\Vehiculo\bin\Debug\Vehiculo.exe.config
+C:\Users\Daniel\Desktop\POO\Unidad 2\Vehiculo\Vehiculo\bin\Debug\Vehiculo.exe
+C:\Users\Daniel\Desktop\POO\Unidad 2\Vehiculo\Vehiculo\bin\Debug\Vehiculo.pdb
+C:\Users\Daniel\Desktop\POO\Unidad 2\Vehiculo\Vehiculo\obj\Debug\Vehiculo.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\POO\Unidad 2\Vehiculo\Vehiculo\obj\Debug\Vehiculo.Form1.resources
+C:\Users\Daniel\Desktop\POO\Unidad 2\Vehiculo\Vehiculo\obj\Debug\Vehiculo.Properties.Resources.resources
+C:\Users\Daniel\Desktop\POO\Unidad 2\Vehiculo\Vehiculo\obj\Debug\Vehiculo.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\POO\Unidad 2\Vehiculo\Vehiculo\obj\Debug\Vehiculo.exe
+C:\Users\Daniel\Desktop\POO\Unidad 2\Vehiculo\Vehiculo\obj\Debug\Vehiculo.pdb

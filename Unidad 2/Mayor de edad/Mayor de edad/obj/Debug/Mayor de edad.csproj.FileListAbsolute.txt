@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\POO\Unidad 2\Mayor de edad\Mayor de edad\bin\Debug\Mayor de edad.exe.config
+C:\Users\Daniel\Desktop\POO\Unidad 2\Mayor de edad\Mayor de edad\bin\Debug\Mayor de edad.exe
+C:\Users\Daniel\Desktop\POO\Unidad 2\Mayor de edad\Mayor de edad\bin\Debug\Mayor de edad.pdb
+C:\Users\Daniel\Desktop\POO\Unidad 2\Mayor de edad\Mayor de edad\obj\Debug\Mayor de edad.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\POO\Unidad 2\Mayor de edad\Mayor de edad\obj\Debug\Mayor_de_edad.Form1.resources
+C:\Users\Daniel\Desktop\POO\Unidad 2\Mayor de edad\Mayor de edad\obj\Debug\Mayor_de_edad.Properties.Resources.resources
+C:\Users\Daniel\Desktop\POO\Unidad 2\Mayor de edad\Mayor de edad\obj\Debug\Mayor de edad.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\POO\Unidad 2\Mayor de edad\Mayor de edad\obj\Debug\Mayor de edad.exe
+C:\Users\Daniel\Desktop\POO\Unidad 2\Mayor de edad\Mayor de edad\obj\Debug\Mayor de edad.pdb

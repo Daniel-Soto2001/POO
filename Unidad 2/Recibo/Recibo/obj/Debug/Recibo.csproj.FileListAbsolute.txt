@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\POO\Unidad 2\Recibo\Recibo\bin\Debug\Recibo.exe.config
+C:\Users\Daniel\Desktop\POO\Unidad 2\Recibo\Recibo\bin\Debug\Recibo.exe
+C:\Users\Daniel\Desktop\POO\Unidad 2\Recibo\Recibo\bin\Debug\Recibo.pdb
+C:\Users\Daniel\Desktop\POO\Unidad 2\Recibo\Recibo\obj\Debug\Recibo.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\POO\Unidad 2\Recibo\Recibo\obj\Debug\Recibo.Form1.resources
+C:\Users\Daniel\Desktop\POO\Unidad 2\Recibo\Recibo\obj\Debug\Recibo.Properties.Resources.resources
+C:\Users\Daniel\Desktop\POO\Unidad 2\Recibo\Recibo\obj\Debug\Recibo.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\POO\Unidad 2\Recibo\Recibo\obj\Debug\Recibo.exe
+C:\Users\Daniel\Desktop\POO\Unidad 2\Recibo\Recibo\obj\Debug\Recibo.pdb

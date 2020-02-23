@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\POO\Unidad 2\Empleado\Empleado\bin\Debug\Empleado.exe.config
+C:\Users\Daniel\Desktop\POO\Unidad 2\Empleado\Empleado\obj\Debug\Empleado.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\POO\Unidad 2\Empleado\Empleado\obj\Debug\Empleado.Form1.resources
+C:\Users\Daniel\Desktop\POO\Unidad 2\Empleado\Empleado\obj\Debug\Empleado.Properties.Resources.resources
+C:\Users\Daniel\Desktop\POO\Unidad 2\Empleado\Empleado\obj\Debug\Empleado.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\POO\Unidad 2\Empleado\Empleado\bin\Debug\Empleado.exe
+C:\Users\Daniel\Desktop\POO\Unidad 2\Empleado\Empleado\bin\Debug\Empleado.pdb
+C:\Users\Daniel\Desktop\POO\Unidad 2\Empleado\Empleado\obj\Debug\Empleado.exe
+C:\Users\Daniel\Desktop\POO\Unidad 2\Empleado\Empleado\obj\Debug\Empleado.pdb
