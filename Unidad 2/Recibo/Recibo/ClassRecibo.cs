@@ -9,54 +9,60 @@ namespace Recibo
     class ClassRecibo
     {
         //Atributos de la clase
-        public double kilo = 0;
-        public double resukilo = 0;
-        public double resunego = 0;      
+        public double kilo;
+        public double resukilo;     
+        public string Tipo;
         //Metodos de la clase
-        public void KilowattsHogar()
+        public void KilowattsHogaryNegocios()
         {
-            if (kilo <= 0 & kilo >= 250)
+            switch (Tipo)
             {
-                resukilo = kilo * 0.65;
+                case "Hogar":
+                    {
+                        if (kilo >= 0 & kilo <= 250)
+                        {
+                            resukilo = kilo * 0.65;
+                        }
+                        else if (kilo >= 251 & kilo <= 500)
+                        {
+                            resukilo = kilo * 0.85;
+                        }
+                        else if (kilo >= 501 & kilo <= 1200)
+                        {
+                            resukilo = kilo * 1.5;
+                        }
+                        else if (kilo >= 1201 & kilo <= 2100)
+                        {
+                            resukilo = kilo * 2.5;
+                        }
+                        else if (kilo >= 2101)
+                        {
+                            resukilo = kilo * 3;
+                        }
+                        break;
+                    }
+                    
+                case "Negocio":
+                    {
+                        resukilo = kilo * 5;
+                        break;
+
+                    }
             }
-            else if (kilo <= 251 & kilo >= 500)
-            {
-                resukilo = kilo * 0.85;
-            }
-            else if (kilo <= 501 & kilo >= 1200)
-            {
-                resukilo = kilo * 1.5;
-            }
-            else if (kilo <= 1201 & kilo >= 2100)
-            {
-                resukilo = kilo * 2.5;
-            }
-            else if (kilo>=2101)
-            {
-                resukilo = kilo * 3;
-            }
-                
+
+
+
+
+
+
+
+
+
+
+
+
+
         }
-        public void KilowattsNegocio()
-        {
-            if(kilo>=0)
-            {
-                resunego = kilo * 5;
-            }
-
-        }
-            
-
-
-
-
-
-
-
-
-
-
-
 
     }
 }

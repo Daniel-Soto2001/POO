@@ -36,5 +36,10 @@ namespace Mayor_de_edad
             lblMayor.Text = objpersona.MayordeEdad;
             objpersona.MayordeEdad = "";
         }
+
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

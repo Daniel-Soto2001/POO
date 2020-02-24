@@ -30,12 +30,11 @@ namespace Recibo
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-            
-            objrecibo.kilo = int.Parse(txtKilo.Text.ToString());
-            objrecibo.KilowattsHogar();
-            objrecibo.KilowattsNegocio();
+            objrecibo.Tipo = cmbTipo.Text;
+            objrecibo.kilo = Convert.ToDouble(txtKilo.Text);
+            objrecibo.KilowattsHogaryNegocios();
             lblResultado.Text = objrecibo.resukilo.ToString();
-            lblResultado.Text = objrecibo.resunego.ToString();
+           
             
         }
     }

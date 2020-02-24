@@ -8,8 +8,8 @@ namespace Mayor_de_edad
 {
     class ClassPersona
     {
-        public int dianacimiento = 0, mesnacimiento = 0, anonacimiento = 0;
-        //Atributos de la clase
+        //Atributo de la clase
+        public int dianacimiento = 0, mesnacimiento = 0, anonacimiento = 0;       
         public int diaactual = 0, mesactual = 0, anoactual = 0;
         public string MayordeEdad;
         //Metodos de la clase

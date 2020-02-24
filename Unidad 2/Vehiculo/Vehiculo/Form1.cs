@@ -30,12 +30,11 @@ namespace Vehiculo
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-            objvehiculo.cuota = cmbVehiculo.Text.ToString();
-            lblResultado.Text = objvehiculo.Motociclista.ToString();
-            lblResultado.Text = objvehiculo.Automovil.ToString();
-            lblResultado.Text = objvehiculo.Autobus.ToString();
-            lblResultado.Text = objvehiculo.Trailer.ToString();
+            objvehiculo.cuota = cmbVehiculo.Text;
             objvehiculo.Caseta();
+            lblResultado.Text = objvehiculo.resu.ToString();
+            
+            
         }
     }
 }

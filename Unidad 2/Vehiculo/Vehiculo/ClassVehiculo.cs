@@ -9,7 +9,7 @@ namespace Vehiculo
     class ClassVehiculo
     {
         //Atributos de la clase
-        public int Automovil = 0, Motociclista = 0, Autobus = 0, Trailer = 0;
+        public int resu;
         public string cuota;
         //Metodos de la clase
         public void Caseta()
@@ -17,16 +17,16 @@ namespace Vehiculo
             switch(cuota)
             {
                 case "Motociclista":
-                    Motociclista = Motociclista + 50;
+                  resu= 50;
                     break;
                 case "Automovil":
-                    Automovil = Automovil + 112;
+                    resu = 112;
                     break;
                 case "Autobus":
-                    Autobus = Autobus + 170;
+                    resu = 170;
                     break;
                 case "Trailer":
-                    Trailer = Trailer + 250;
+                    resu =  250;
                     break;
             }
         }
