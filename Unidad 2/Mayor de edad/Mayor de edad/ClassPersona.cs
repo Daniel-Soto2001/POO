@@ -31,10 +31,7 @@ namespace Mayor_de_edad
                     {
                         MayordeEdad = "Es mayor de edad";
                     }
-                    else if(diaactual==dianacimiento)
-                    {
-                        MayordeEdad = "Es mayor de edad";
-                    }
+                    
                 }
 
 

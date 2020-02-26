@@ -36,7 +36,7 @@
             // 
             // btnCalcular
             // 
-            this.btnCalcular.Location = new System.Drawing.Point(31, 131);
+            this.btnCalcular.Location = new System.Drawing.Point(28, 126);
             this.btnCalcular.Name = "btnCalcular";
             this.btnCalcular.Size = new System.Drawing.Size(84, 32);
             this.btnCalcular.TabIndex = 2;
@@ -65,7 +65,7 @@
             // lblMayor
             // 
             this.lblMayor.AutoSize = true;
-            this.lblMayor.Location = new System.Drawing.Point(154, 141);
+            this.lblMayor.Location = new System.Drawing.Point(151, 136);
             this.lblMayor.Name = "lblMayor";
             this.lblMayor.Size = new System.Drawing.Size(0, 13);
             this.lblMayor.TabIndex = 5;

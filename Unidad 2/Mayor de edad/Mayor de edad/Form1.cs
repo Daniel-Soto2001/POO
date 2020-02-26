@@ -33,7 +33,7 @@ namespace Mayor_de_edad
             objpersona.mesnacimiento = int.Parse(dateTimePicker1.Value.Month.ToString());
             objpersona.dianacimiento = int.Parse(dateTimePicker1.Value.Day.ToString());
             objpersona.Mayor();
-            lblMayor.Text = objpersona.MayordeEdad;
+            lblMayor.Text = objpersona.MayordeEdad.ToString();
             objpersona.MayordeEdad = "";
         }
 

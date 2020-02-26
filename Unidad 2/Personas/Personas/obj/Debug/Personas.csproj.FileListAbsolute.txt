@@ -7,3 +7,6 @@ C:\Users\Daniel\Desktop\Programacion\Personas\Personas\obj\Debug\Personas.Proper
 C:\Users\Daniel\Desktop\Programacion\Personas\Personas\obj\Debug\Personas.csproj.GenerateResource.Cache
 C:\Users\Daniel\Desktop\Programacion\Personas\Personas\obj\Debug\Personas.exe
 C:\Users\Daniel\Desktop\Programacion\Personas\Personas\obj\Debug\Personas.pdb
+C:\Users\Daniel\Desktop\POO\Unidad 2\Personas\Personas\bin\Debug\Personas.exe.config
+C:\Users\Daniel\Desktop\POO\Unidad 2\Personas\Personas\obj\Debug\Personas.exe
+C:\Users\Daniel\Desktop\POO\Unidad 2\Personas\Personas\obj\Debug\Personas.pdb
