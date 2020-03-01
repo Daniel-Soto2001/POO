@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\Examen2y3\MayorEdad\bin\Debug\MayorEdad.exe.config
+C:\Users\Daniel\Desktop\Examen2y3\MayorEdad\obj\Debug\MayorEdad.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Examen2y3\MayorEdad\obj\Debug\MayorEdad.Form1.resources
+C:\Users\Daniel\Desktop\Examen2y3\MayorEdad\obj\Debug\MayorEdad.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Examen2y3\MayorEdad\obj\Debug\MayorEdad.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\Examen2y3\MayorEdad\bin\Debug\MayorEdad.exe
+C:\Users\Daniel\Desktop\Examen2y3\MayorEdad\bin\Debug\MayorEdad.pdb
+C:\Users\Daniel\Desktop\Examen2y3\MayorEdad\obj\Debug\MayorEdad.exe
+C:\Users\Daniel\Desktop\Examen2y3\MayorEdad\obj\Debug\MayorEdad.pdb
