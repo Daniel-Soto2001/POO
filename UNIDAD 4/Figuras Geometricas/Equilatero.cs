@@ -9,13 +9,9 @@ namespace Figuras_Geometricas
     class Equilatero : Triangulo
     {
         //Atributos de la clase
-        private double lado;
+     
         private string tipo;
-    
-        public double Lado { get; set; }
         public string Tipo { get; set; }
-   
-        
         public Equilatero()
         {
             Lado = 0;

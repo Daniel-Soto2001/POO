@@ -9,12 +9,12 @@ namespace Figuras_Geometricas
     class Escaleno:Triangulo
     {
         //Atributos de la clase
-        private double lado;
+       
         private double lado2;
         private double lado3;
         private string tipo;
      
-        public double Lado { get; set; }
+       
         public double Lado2 { get; set; }
         public double Lado3 { get; set; }
         public string Tipo { get; set; }
@@ -22,7 +22,7 @@ namespace Figuras_Geometricas
 
         public Escaleno()
         {
-            Lado = 0;
+            
             Lado2 = 0;
             lado3 = 0;
         }
