@@ -8,11 +8,11 @@ namespace InterfacesEjercicio1
 {
     class Convertidora : MonedaDeCambio
     {
-        private int dolar;
-        private int pesos;
+        private double dolar;
+        private double pesos;
 
-        public int Dolar { get; set; }
-        public int Pesos { get; set; }
+        public double Dolar { get; set; }
+        public double Pesos { get; set; }
 
         public Convertidora()
         {
