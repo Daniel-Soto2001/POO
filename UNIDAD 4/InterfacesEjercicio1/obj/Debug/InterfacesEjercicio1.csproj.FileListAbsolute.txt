@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\UNIDAD 4\InterfacesEjercicio1\bin\Debug\InterfacesEjercicio1.exe.config
+C:\Users\Daniel\Desktop\UNIDAD 4\InterfacesEjercicio1\bin\Debug\InterfacesEjercicio1.exe
+C:\Users\Daniel\Desktop\UNIDAD 4\InterfacesEjercicio1\bin\Debug\InterfacesEjercicio1.pdb
+C:\Users\Daniel\Desktop\UNIDAD 4\InterfacesEjercicio1\obj\Debug\InterfacesEjercicio1.Form1.resources
+C:\Users\Daniel\Desktop\UNIDAD 4\InterfacesEjercicio1\obj\Debug\InterfacesEjercicio1.Properties.Resources.resources
+C:\Users\Daniel\Desktop\UNIDAD 4\InterfacesEjercicio1\obj\Debug\InterfacesEjercicio1.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\UNIDAD 4\InterfacesEjercicio1\obj\Debug\InterfacesEjercicio1.exe
+C:\Users\Daniel\Desktop\UNIDAD 4\InterfacesEjercicio1\obj\Debug\InterfacesEjercicio1.pdb
+C:\Users\Daniel\Desktop\UNIDAD 4\InterfacesEjercicio1\obj\Debug\InterfacesEjercicio1.csprojResolveAssemblyReference.cache
