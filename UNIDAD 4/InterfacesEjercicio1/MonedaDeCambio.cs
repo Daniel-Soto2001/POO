@@ -8,7 +8,7 @@ namespace InterfacesEjercicio1
 {
     interface MonedaDeCambio
     {
-          void PesosaDolar();
+          void DolarPesos();
 
         
 

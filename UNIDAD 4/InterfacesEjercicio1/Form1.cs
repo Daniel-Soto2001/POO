@@ -26,7 +26,7 @@ namespace InterfacesEjercicio1
         private void btnAceptar_Click(object sender, EventArgs e)
         {
             objconvertir.Dolar = Convert.ToDouble(txtPesos.Text.ToString());
-            objconvertir.PesosaDolar();
+            objconvertir.DolarPesos();
             lblResultado.Text = objconvertir.Pesos.ToString();
         }
     }

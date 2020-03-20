@@ -11,6 +11,7 @@ namespace InterfacesEjercicio1
         private double dolar;
         private double pesos;
 
+
         public double Dolar { get; set; }
         public double Pesos { get; set; }
 
@@ -19,7 +20,7 @@ namespace InterfacesEjercicio1
             Dolar = 0;
             Pesos = 0;
         }
-        public void PesosaDolar()
+        public void DolarPesos()
         {
 
              Pesos = Dolar * 24;
