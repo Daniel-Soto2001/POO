@@ -1,0 +1,12 @@
+C:\Users\Daniel\Desktop\POO\UNIDAD 4\Adivinanza\bin\Debug\Adivinanza.exe.config
+C:\Users\Daniel\Desktop\POO\UNIDAD 4\Adivinanza\bin\Debug\Adivinanza.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 4\Adivinanza\bin\Debug\Adivinanza.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 4\Adivinanza\obj\Debug\Adivinanza.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\POO\UNIDAD 4\Adivinanza\obj\Debug\Adivinanza.Properties.Resources.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 4\Adivinanza\obj\Debug\Adivinanza.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\POO\UNIDAD 4\Adivinanza\obj\Debug\Adivinanza.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 4\Adivinanza\obj\Debug\Adivinanza.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 4\Adivinanza\obj\Debug\Adivinanza.fmrAdivinaNumero.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 4\Adivinanza\obj\Debug\Adivinanza.fmrFacil.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 4\Adivinanza\obj\Debug\Adivinanza.fmrMedio.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 4\Adivinanza\obj\Debug\Adivinanza.fmrDificil.resources
