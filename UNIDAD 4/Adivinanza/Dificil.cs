@@ -22,6 +22,7 @@ namespace Adivinanza
         private void btnReiniciiarDificil_Click(object sender, EventArgs e)
         {
             lblResultadoDificil.Text = "";
+            txtNumeroDificil.Text = "";
         }
 
         private void btnSalirDificil_Click(object sender, EventArgs e)

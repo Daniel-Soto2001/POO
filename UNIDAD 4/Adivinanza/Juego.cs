@@ -8,7 +8,7 @@ namespace Adivinanza
 {
   abstract class Juego:Numeros
     {
-        //Atributod de la clase
+        //Atributo de la clase
         private int numeroganador;
         private string resultado;
         private int numerointroducir;
@@ -20,7 +20,7 @@ namespace Adivinanza
         public string Resultado { get; set; }
         public string ResultadoOpcion { get; set; }
             
-
+        //Constructor
         public Juego()
         {
             NumeroGanador = 0;
@@ -28,6 +28,7 @@ namespace Adivinanza
             Resultado = "";
             ResultadoOpcion = "";
         }
+        //Metodo
         public abstract void CalcularNumero();
 
 

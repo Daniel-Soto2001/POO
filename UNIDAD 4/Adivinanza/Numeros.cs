@@ -8,7 +8,11 @@ namespace Adivinanza
 {
     interface Numeros
     {
-       
+         int NumeroIntroducir { get; set; }
+         int NumeroGanador { get; set; }
+         string Resultado { get; set; }
+         string ResultadoOpcion { get; set; }
+
         void  CalcularNumero();
     }
 }

@@ -9,17 +9,18 @@ namespace Adivinanza
     class ClaseMedio:Juego
     {
 
+        
         public override void CalcularNumero()
         {
             if (NumeroIntroducir == NumeroGanador)
             {
-                Resultado = "Haz adivinado el numero !Felicidades has ganado!";
+                Resultado = "Has adivinado el numero !Felicidades has ganado!";
                 ResultadoOpcion = "Has ganado 500 puntos";
             }
             else
             {
-                Resultado = "No haz adivinado el numero !Perdiste sigue intentando !";
-                ResultadoOpcion = "Has perdido 100 puntos";
+                Resultado = "No has adivinado el numero !Perdiste sigue intentando !";
+                ResultadoOpcion = "Has perdido 500 puntos";
             }
         }
      

@@ -39,6 +39,7 @@ namespace Adivinanza
         private void btnReiniciarFacil_Click(object sender, EventArgs e)
         {
             lblResultadoFacil.Text = "";
+            txtNumeroFacil.Text = "";
 
         }
 

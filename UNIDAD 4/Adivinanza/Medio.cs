@@ -41,6 +41,7 @@ namespace Adivinanza
         private void btnReiniciarMedio_Click(object sender, EventArgs e)
         {
             lblResultadoMedio.Text = "";
+            txtNumeroMedio.Text = "";
         }
     }
 }
