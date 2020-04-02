@@ -7,3 +7,6 @@ C:\Users\Daniel\Desktop\Ejemplo1Propuesto\obj\Debug\Ejemplo1Propuesto.pdb
 C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejemplo1Propuesto\bin\Debug\Ejemplo1Propuesto.exe.config
 C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejemplo1Propuesto\obj\Debug\Ejemplo1Propuesto.exe
 C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejemplo1Propuesto\obj\Debug\Ejemplo1Propuesto.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejemplo1Propuesto\bin\Debug\Ejemplo1Propuesto.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejemplo1Propuesto\bin\Debug\Ejemplo1Propuesto.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejemplo1Propuesto\obj\Debug\Ejemplo1Propuesto.csprojResolveAssemblyReference.cache

@@ -18,11 +18,11 @@ namespace Ejemplo1Propuesto
             //Arreglo Inicializado
             int[] calificaciones = { 0, 2, 4, 6, 8, 10, 1, 3, 5, 7, 9 };
             string[] alumnos = { "Ismael","Javier","Ignacio","Marcelo","Rodrigo","Mariana","Belen","Aranza","Luis","Daniel","Maricela" };
-            //
+           //Matriz
             for (n = 0; n < calificaciones.Length; n++) 
             {
                 Console.WriteLine("La califiacion de {0} es: {1}", alumnos[n], calificaciones[n]);
-            }
+            //Matriz
             for(n=0; n<calificaciones.Length; n++)
             {
                 suma = suma + calificaciones[n];
