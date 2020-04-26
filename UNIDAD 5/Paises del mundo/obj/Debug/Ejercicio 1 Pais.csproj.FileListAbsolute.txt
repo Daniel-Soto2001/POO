@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Paises del mundo\bin\Debug\Paises del mundo.exe.config
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Paises del mundo\bin\Debug\Paises del mundo.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Paises del mundo\bin\Debug\Paises del mundo.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Paises del mundo\obj\Debug\Ejercicio 1 Pais.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Paises del mundo\obj\Debug\Paises_del_mundo.Form1.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Paises del mundo\obj\Debug\Paises_del_mundo.Properties.Resources.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Paises del mundo\obj\Debug\Ejercicio 1 Pais.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Paises del mundo\obj\Debug\Paises del mundo.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Paises del mundo\obj\Debug\Paises del mundo.pdb

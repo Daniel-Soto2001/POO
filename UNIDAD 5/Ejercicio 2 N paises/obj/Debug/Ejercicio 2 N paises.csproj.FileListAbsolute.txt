@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 2 N paises\bin\Debug\Ejercicio 2 N paises.exe.config
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 2 N paises\bin\Debug\Ejercicio 2 N paises.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 2 N paises\bin\Debug\Ejercicio 2 N paises.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 2 N paises\obj\Debug\Ejercicio_2_N_paises.Form1.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 2 N paises\obj\Debug\Ejercicio_2_N_paises.Properties.Resources.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 2 N paises\obj\Debug\Ejercicio 2 N paises.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 2 N paises\obj\Debug\Ejercicio 2 N paises.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 2 N paises\obj\Debug\Ejercicio 2 N paises.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 2 N paises\obj\Debug\Ejercicio 2 N paises.csprojResolveAssemblyReference.cache
