@@ -154,7 +154,7 @@ namespace Ejercicio_4_DocenteAlumnos
                 Docente.Email = new string[100];
                 Docente.Email[0] = txtEmail.Text;
                 Docente.Numero = new int[100];
-                Docente.Numero[0] = int.Parse(txtNumero.Text);
+                //Docente.Numero[0] = Convert.ToInt32(txtNumero.Text);
                 Docente.Sueldo = new decimal[100];
                 Docente.Sueldo[0] = sueldo;
                 Docente.MateriasImparte = new string[100];
