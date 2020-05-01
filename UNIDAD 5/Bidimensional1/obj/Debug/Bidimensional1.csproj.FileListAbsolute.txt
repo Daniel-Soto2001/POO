@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Bidimensional1\bin\Debug\Bidimensional1.exe.config
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Bidimensional1\bin\Debug\Bidimensional1.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Bidimensional1\bin\Debug\Bidimensional1.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Bidimensional1\obj\Debug\Bidimensional1.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Bidimensional1\obj\Debug\Bidimensional1.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Bidimensional1\obj\Debug\Bidimensional1.pdb

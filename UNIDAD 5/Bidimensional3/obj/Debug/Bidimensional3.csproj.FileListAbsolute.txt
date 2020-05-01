@@ -1,0 +1,3 @@
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Bidimensional3\bin\Debug\Bidimensional2.exe.config
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Bidimensional3\obj\Debug\Bidimensional2.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Bidimensional3\obj\Debug\Bidimensional2.pdb
