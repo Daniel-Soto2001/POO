@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\TorneoFutbol\bin\Debug\TorneoFutbol.exe.config
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\TorneoFutbol\bin\Debug\TorneoFutbol.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\TorneoFutbol\bin\Debug\TorneoFutbol.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\TorneoFutbol\obj\Debug\TorneoFutbol.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\TorneoFutbol\obj\Debug\TorneoFutbol.Form1.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\TorneoFutbol\obj\Debug\TorneoFutbol.Properties.Resources.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\TorneoFutbol\obj\Debug\TorneoFutbol.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\TorneoFutbol\obj\Debug\TorneoFutbol.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\TorneoFutbol\obj\Debug\TorneoFutbol.pdb
