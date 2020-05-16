@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Calcularadora ProyectoFinal\bin\Debug\Calcularadora ProyectoFinal.exe.config
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Calcularadora ProyectoFinal\bin\Debug\Calcularadora ProyectoFinal.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Calcularadora ProyectoFinal\bin\Debug\Calcularadora ProyectoFinal.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Calcularadora ProyectoFinal\obj\Debug\Calcularadora ProyectoFinal.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Calcularadora ProyectoFinal\obj\Debug\Calcularadora_ProyectoFinal.Form1.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Calcularadora ProyectoFinal\obj\Debug\Calcularadora_ProyectoFinal.Properties.Resources.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Calcularadora ProyectoFinal\obj\Debug\Calcularadora ProyectoFinal.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Calcularadora ProyectoFinal\obj\Debug\Calcularadora ProyectoFinal.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Calcularadora ProyectoFinal\obj\Debug\Calcularadora ProyectoFinal.pdb
