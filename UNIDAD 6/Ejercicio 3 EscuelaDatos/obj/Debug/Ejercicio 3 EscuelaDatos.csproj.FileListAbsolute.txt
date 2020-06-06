@@ -1,0 +1,22 @@
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 3 EscuelaDatos\bin\Debug\Ejercicio 3 EscuelaDatos.exe.config
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 3 EscuelaDatos\bin\Debug\Ejercicio 3 EscuelaDatos.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 3 EscuelaDatos\bin\Debug\Ejercicio 3 EscuelaDatos.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 3 EscuelaDatos\obj\Debug\Ejercicio 3 EscuelaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 3 EscuelaDatos\obj\Debug\Ejercicio_3_EscuelaDatos.fmrAlumno.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 3 EscuelaDatos\obj\Debug\Ejercicio_3_EscuelaDatos.fmrDocente.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 3 EscuelaDatos\obj\Debug\Ejercicio_3_EscuelaDatos.fmrUsuario.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 3 EscuelaDatos\obj\Debug\Ejercicio_3_EscuelaDatos.Properties.Resources.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 3 EscuelaDatos\obj\Debug\Ejercicio 3 EscuelaDatos.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 3 EscuelaDatos\obj\Debug\Ejercicio 3 EscuelaDatos.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 3 EscuelaDatos\obj\Debug\Ejercicio 3 EscuelaDatos.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Ejercicio 3 EscuelaDatos\bin\Debug\Ejercicio 3 EscuelaDatos.exe.config
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Ejercicio 3 EscuelaDatos\obj\Debug\Ejercicio 3 EscuelaDatos.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Ejercicio 3 EscuelaDatos\obj\Debug\Ejercicio 3 EscuelaDatos.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Ejercicio 3 EscuelaDatos\bin\Debug\Ejercicio 3 EscuelaDatos.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Ejercicio 3 EscuelaDatos\bin\Debug\Ejercicio 3 EscuelaDatos.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Ejercicio 3 EscuelaDatos\obj\Debug\Ejercicio 3 EscuelaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Ejercicio 3 EscuelaDatos\obj\Debug\Ejercicio_3_EscuelaDatos.fmrAlumno.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Ejercicio 3 EscuelaDatos\obj\Debug\Ejercicio_3_EscuelaDatos.fmrDocente.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Ejercicio 3 EscuelaDatos\obj\Debug\Ejercicio_3_EscuelaDatos.fmrUsuario.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Ejercicio 3 EscuelaDatos\obj\Debug\Ejercicio_3_EscuelaDatos.Properties.Resources.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Ejercicio 3 EscuelaDatos\obj\Debug\Ejercicio 3 EscuelaDatos.csproj.GenerateResource.Cache

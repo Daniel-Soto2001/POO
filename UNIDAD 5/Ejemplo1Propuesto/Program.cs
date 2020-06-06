@@ -23,6 +23,7 @@ namespace Ejemplo1Propuesto
             {
                 Console.WriteLine("La califiacion de {0} es: {1}", alumnos[n], calificaciones[n]);
                 //Matriz
+            }
                 for (n = 0; n < calificaciones.Length; n++)
                 {
                     suma = suma + calificaciones[n];
@@ -34,6 +35,6 @@ namespace Ejemplo1Propuesto
 
                 Console.ReadLine();
             }
-        }
+        
     }
 }

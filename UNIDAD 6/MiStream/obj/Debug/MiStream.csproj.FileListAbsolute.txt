@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\POO\UNIDAD6\MiStream\bin\Debug\MiStream.exe.config
+C:\Users\Daniel\Desktop\POO\UNIDAD6\MiStream\bin\Debug\MiStream.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD6\MiStream\bin\Debug\MiStream.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD6\MiStream\obj\Debug\MiStream.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD6\MiStream\obj\Debug\MiStream.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD6\MiStream\bin\Debug\archivo.txt
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\MiStream\bin\Debug\MiStream.exe.config
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\MiStream\obj\Debug\MiStream.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\MiStream\obj\Debug\MiStream.pdb

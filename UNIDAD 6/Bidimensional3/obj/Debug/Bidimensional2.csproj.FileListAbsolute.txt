@@ -1,0 +1,13 @@
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Bidimensional2\bin\Debug\Bidimensional2.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Bidimensional2\bin\Debug\Bidimensional2.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Bidimensional2\bin\Debug\Bidimensional2.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Bidimensional2\obj\Debug\Bidimensional2.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Bidimensional2\obj\Debug\Bidimensional2.frmBidimensional.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Bidimensional2\obj\Debug\Bidimensional2.frmOperaciones.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Bidimensional2\obj\Debug\Bidimensional2.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Bidimensional2\obj\Debug\Bidimensional2.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Bidimensional2\obj\Debug\Bidimensional2.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Bidimensional2\obj\Debug\Bidimensional2.pdb
+C:\Users\Daniel\Desktop\LUIGUI\Bidimensional2\bin\Debug\Bidimensional2.exe.config
+C:\Users\Daniel\Desktop\LUIGUI\Bidimensional2\obj\Debug\Bidimensional2.exe
+C:\Users\Daniel\Desktop\LUIGUI\Bidimensional2\obj\Debug\Bidimensional2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Daniel\Desktop\POO\UNIDAD6\PrimerPrograma\bin\Debug\PrimerPrograma.exe.config
+C:\Users\Daniel\Desktop\POO\UNIDAD6\PrimerPrograma\bin\Debug\PrimerPrograma.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD6\PrimerPrograma\bin\Debug\PrimerPrograma.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD6\PrimerPrograma\obj\Debug\PrimerPrograma.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\POO\UNIDAD6\PrimerPrograma\obj\Debug\PrimerPrograma.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD6\PrimerPrograma\obj\Debug\PrimerPrograma.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD6\PrimerPrograma\bin\Debug\archivo.txt

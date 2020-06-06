@@ -1,0 +1,13 @@
+C:\Users\Daniel\Desktop\Bidimensionales1-2\Bidimensionales 1-2\bin\Debug\Datos.txt
+C:\Users\Daniel\Desktop\Bidimensionales1-2\Bidimensionales 1-2\bin\Debug\Bidimensionales 1-2.exe.config
+C:\Users\Daniel\Desktop\Bidimensionales1-2\Bidimensionales 1-2\bin\Debug\Bidimensionales 1-2.exe
+C:\Users\Daniel\Desktop\Bidimensionales1-2\Bidimensionales 1-2\bin\Debug\Bidimensionales 1-2.pdb
+C:\Users\Daniel\Desktop\Bidimensionales1-2\Bidimensionales 1-2\obj\Debug\Bidimensionales 1-2.exe
+C:\Users\Daniel\Desktop\Bidimensionales1-2\Bidimensionales 1-2\obj\Debug\Bidimensionales 1-2.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Bidimensional2\bin\Debug\Bidimensionales 1-2.exe.config
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Bidimensional2\obj\Debug\Bidimensionales 1-2.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Bidimensional2\obj\Debug\Bidimensionales 1-2.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Bidimensional2\bin\Debug\Datos.txt
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Bidimensional2\bin\Debug\Bidimensionales 1-2.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Bidimensional2\bin\Debug\Bidimensionales 1-2.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Bidimensional2\obj\Debug\Bidimensional2.csprojResolveAssemblyReference.cache

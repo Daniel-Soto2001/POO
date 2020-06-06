@@ -1,0 +1,12 @@
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\ConsoleApplication1\obj\Debug\NumeroMenorMayor.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\NumeroMayorMenor\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\NumeroMayorMenor\obj\Debug\ConsoleApplication1.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\NumeroMayorMenor\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\NumeroMayorMenor\bin\Debug\ConsoleApplication1.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\NumeroMayorMenor\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\NumeroMayorMenor\obj\Debug\NumeroMenorMayor.csprojResolveAssemblyReference.cache

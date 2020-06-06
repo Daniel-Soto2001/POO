@@ -71,7 +71,7 @@ namespace Ejercicio_3_EscuelaDatos
 
              
                 ObjAlumno.Materia[contador] = txtMateria.Text;
-                ObjAlumno.Calificacion[contador] = double.Parse(txtMateria.Text);
+                ObjAlumno.Calificacion[contador] = double.Parse(txtSemestre.Text);
 
                 // Limpiar el textbox
                 txtMateria.Clear();
@@ -85,10 +85,9 @@ namespace Ejercicio_3_EscuelaDatos
                 ObjAlumno.Control = numerocontrol;
                 ObjAlumno.Carrera = txtCarrera.Text;             
                 ObjAlumno.Materia = new string[10];
-
                 ObjAlumno.Materia[0] = txtMateria.Text;
                 ObjAlumno.Calificacion = new double[10];
-                ObjAlumno.Calificacion[0] = double.Parse(txtMateria.Text);
+                ObjAlumno.Calificacion[0] = int.Parse(txtSemestre.Text);
 
                 //Método para limpiar los textbox
                 txtMateria.Clear();

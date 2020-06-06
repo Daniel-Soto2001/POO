@@ -1,0 +1,22 @@
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 4 DocenteAlumnos\bin\Debug\Ejercicio 4 DocenteAlumnos.exe.config
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 4 DocenteAlumnos\bin\Debug\Ejercicio 4 DocenteAlumnos.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 4 DocenteAlumnos\bin\Debug\Ejercicio 4 DocenteAlumnos.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 4 DocenteAlumnos\obj\Debug\Ejercicio_4_DocenteAlumnos.fmrUsuario.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 4 DocenteAlumnos\obj\Debug\Ejercicio_4_DocenteAlumnos.Properties.Resources.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 4 DocenteAlumnos\obj\Debug\Ejercicio 4 DocenteAlumnos.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 4 DocenteAlumnos\obj\Debug\Ejercicio 4 DocenteAlumnos.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 4 DocenteAlumnos\obj\Debug\Ejercicio 4 DocenteAlumnos.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 4 DocenteAlumnos\obj\Debug\Ejercicio 4 DocenteAlumnos.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 4 DocenteAlumnos\obj\Debug\Ejercicio_4_DocenteAlumnos.fmrAlumno.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Ejercicio 4 DocenteAlumnos\obj\Debug\Ejercicio_4_DocenteAlumnos.fmrDocente.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Ejercicio 4 DocenteAlumnos\bin\Debug\Ejercicio 4 DocenteAlumnos.exe.config
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Ejercicio 4 DocenteAlumnos\obj\Debug\Ejercicio 4 DocenteAlumnos.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Ejercicio 4 DocenteAlumnos\obj\Debug\Ejercicio 4 DocenteAlumnos.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Ejercicio 4 DocenteAlumnos\bin\Debug\Ejercicio 4 DocenteAlumnos.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Ejercicio 4 DocenteAlumnos\bin\Debug\Ejercicio 4 DocenteAlumnos.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Ejercicio 4 DocenteAlumnos\obj\Debug\Ejercicio 4 DocenteAlumnos.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Ejercicio 4 DocenteAlumnos\obj\Debug\Ejercicio_4_DocenteAlumnos.fmrAlumno.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Ejercicio 4 DocenteAlumnos\obj\Debug\Ejercicio_4_DocenteAlumnos.fmrDocente.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Ejercicio 4 DocenteAlumnos\obj\Debug\Ejercicio_4_DocenteAlumnos.fmrUsuario.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Ejercicio 4 DocenteAlumnos\obj\Debug\Ejercicio_4_DocenteAlumnos.Properties.Resources.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Ejercicio 4 DocenteAlumnos\obj\Debug\Ejercicio 4 DocenteAlumnos.csproj.GenerateResource.Cache

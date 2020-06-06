@@ -1,0 +1,18 @@
+C:\Users\Daniel\Desktop\Array List\Array List\bin\Debug\Array List.exe.config
+C:\Users\Daniel\Desktop\Array List\Array List\bin\Debug\Array List.exe
+C:\Users\Daniel\Desktop\Array List\Array List\bin\Debug\Array List.pdb
+C:\Users\Daniel\Desktop\Array List\Array List\obj\Debug\MiPrimeraClase.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Array List\Array List\obj\Debug\Array_List.Form1.resources
+C:\Users\Daniel\Desktop\Array List\Array List\obj\Debug\Array_List.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Array List\Array List\obj\Debug\MiPrimeraClase.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\Array List\Array List\obj\Debug\Array List.exe
+C:\Users\Daniel\Desktop\Array List\Array List\obj\Debug\Array List.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\MiPrimeraClase\bin\Debug\Array List.exe.config
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\MiPrimeraClase\obj\Debug\Array List.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\MiPrimeraClase\obj\Debug\Array List.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\MiPrimeraClase\bin\Debug\Array List.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\MiPrimeraClase\bin\Debug\Array List.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\MiPrimeraClase\obj\Debug\MiPrimeraClase.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\MiPrimeraClase\obj\Debug\Array_List.Form1.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\MiPrimeraClase\obj\Debug\Array_List.Properties.Resources.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\MiPrimeraClase\obj\Debug\MiPrimeraClase.csproj.GenerateResource.Cache

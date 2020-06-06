@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\POO\UNIDAD6\PrimerPrograma\bin\Release\PrimerPrograma.exe.config
+C:\Users\Daniel\Desktop\POO\UNIDAD6\PrimerPrograma\bin\Release\archivo.txt.txt
+C:\Users\Daniel\Desktop\POO\UNIDAD6\PrimerPrograma\bin\Release\PrimerPrograma.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD6\PrimerPrograma\bin\Release\PrimerPrograma.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD6\PrimerPrograma\obj\Release\PrimerPrograma.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD6\PrimerPrograma\obj\Release\PrimerPrograma.pdb

@@ -1,0 +1,13 @@
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Bidimensional3\bin\Debug\Bidimensional2.exe.config
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Bidimensional3\obj\Debug\Bidimensional2.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\Bidimensional3\obj\Debug\Bidimensional2.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Bidimensional3\bin\Debug\Bidimensional2.exe.config
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Bidimensional3\obj\Debug\Bidimensional2.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Bidimensional3\obj\Debug\Bidimensional2.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Bidimensional3\bin\Debug\Bidimensional2.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Bidimensional3\bin\Debug\Bidimensional2.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Bidimensional3\obj\Debug\Bidimensional2.frmBidimensional.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Bidimensional3\obj\Debug\Bidimensional2.frmOperaciones.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Bidimensional3\obj\Debug\Bidimensional2.Properties.Resources.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Bidimensional3\obj\Debug\Bidimensional3.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\Bidimensional3\obj\Debug\Bidimensional3.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+Un ejemplo de streams
+Segunda Linea
+Tercera lineaHola mi nombre es carlos daniel elias soto
+Este es mi trabajo

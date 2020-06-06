@@ -1,0 +1,4 @@
+C:\Users\Daniel\Desktop\POO\UNIDAD6\PrimerPrograma\obj\Debug\Streams.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\POO\UNIDAD6\PrimerPrograma\obj\Debug\PrimerPrograma.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD6\PrimerPrograma\obj\Debug\PrimerPrograma.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD6\PrimerPrograma\bin\Debug\PrimerPrograma.exe.config

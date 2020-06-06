@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\MatrizSuma\bin\Debug\MatrizSumaFCD.exe.config
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\MatrizSuma\obj\Debug\MatrizSumaFCD.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\MatrizSuma\obj\Debug\MatrizSumaFCD.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\MatrizSuma\bin\Debug\MatrizSumaFCD.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\MatrizSuma\bin\Debug\MatrizSumaFCD.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\MatrizSuma\obj\Debug\MatrizSuma.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\MatrizSuma\obj\Debug\MatrizSumaFCD.frmFCD.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\MatrizSuma\obj\Debug\MatrizSumaFCD.Properties.Resources.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 5\MatrizSuma\obj\Debug\MatrizSuma.csproj.GenerateResource.Cache
