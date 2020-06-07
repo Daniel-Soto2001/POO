@@ -48,5 +48,10 @@ namespace Personas
             MessageBox.Show("Se guardaron tus datos");
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

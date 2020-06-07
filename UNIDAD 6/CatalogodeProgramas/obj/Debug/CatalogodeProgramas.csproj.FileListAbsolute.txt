@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\CatalogodeProgramas\bin\Debug\CatalogodeProgramas.exe.config
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\CatalogodeProgramas\bin\Debug\CatalogodeProgramas.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\CatalogodeProgramas\bin\Debug\CatalogodeProgramas.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\CatalogodeProgramas\obj\Debug\CatalogodeProgramas.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\CatalogodeProgramas\obj\Debug\CatalogodeProgramas.FrmProgramas.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\CatalogodeProgramas\obj\Debug\CatalogodeProgramas.Properties.Resources.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\CatalogodeProgramas\obj\Debug\CatalogodeProgramas.fmrUndidad2y3.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\CatalogodeProgramas\obj\Debug\CatalogodeProgramas.fmrUnidad1.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\CatalogodeProgramas\obj\Debug\CatalogodeProgramas.fmrUnidad6.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\CatalogodeProgramas\obj\Debug\CatalogodeProgramas.fmrUnidad4.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\CatalogodeProgramas\obj\Debug\CatalogodeProgramas.fmrUnidad5.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\CatalogodeProgramas\obj\Debug\CatalogodeProgramas.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\CatalogodeProgramas\obj\Debug\CatalogodeProgramas.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 6\CatalogodeProgramas\obj\Debug\CatalogodeProgramas.pdb

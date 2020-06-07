@@ -75,19 +75,19 @@ namespace MatrizSumaFCD
 
         private void btnDiagonales_Click(object sender, EventArgs e)
         {
-            txtSumDia.Text = objFCD.SumaDiagonal();
+            
 
         }
 
         private void btnTotalFil_Click(object sender, EventArgs e)
         {
-            txtTotalFil.Text = objFCD.ImprimirFilas();
+        
             
         }
 
         private void btnTotalCol_Click(object sender, EventArgs e)
         {
-            txtTotalCol.Text = objFCD.ImprimirColumnas();
+            
            
         }
 

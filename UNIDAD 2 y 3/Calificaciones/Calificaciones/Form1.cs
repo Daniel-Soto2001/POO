@@ -27,14 +27,7 @@ namespace Calificaciones
         private void button1_Click(object sender, EventArgs e)
         {
             
-           if (txtContadorCali.Text == "");
-            {
-                errorProvider1.SetError(txtContadorCali, "Debe introducir una calificación");
-                txtContadorCali.Focus();
-                return;
-            }
-            errorProvider1.SetError(txtContadorCali,"");
-
+           
 
 
             objcalificaciones.califCapturados = int.Parse(txtContadorCali.Text.ToString());

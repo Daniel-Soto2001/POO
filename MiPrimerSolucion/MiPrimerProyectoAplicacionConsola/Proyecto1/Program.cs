@@ -14,11 +14,13 @@ namespace Proyecto1
             
 
             Console.WriteLine("Introduce un numero ");
-            a =Convert. ToInt32 (Console.Read());
+            a =Convert.ToInt32(Console.ReadLine());
+
             Console.WriteLine("Introduce un numero ");
-            b =Convert.ToInt32 (Console.Read());
+            b =Convert.ToInt32 (Console.ReadLine());
             c = a + b;
-            Console.WriteLine("La suma es: "+ c);
+            Console.WriteLine("La suma es: " + c);
+           
             Console.ReadKey();
 
 

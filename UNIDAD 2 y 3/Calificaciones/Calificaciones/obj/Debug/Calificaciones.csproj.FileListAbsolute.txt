@@ -19,3 +19,11 @@ C:\Users\Daniel\Desktop\POO\Unidad1Calificaciones\Calificaciones\obj\Debug\Calif
 C:\Users\Daniel\Desktop\POO\Unidad 2\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe.config
 C:\Users\Daniel\Desktop\POO\Unidad 2\Calificaciones\Calificaciones\obj\Debug\Calificaciones.exe
 C:\Users\Daniel\Desktop\POO\Unidad 2\Calificaciones\Calificaciones\obj\Debug\Calificaciones.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 2 y 3\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe.config
+C:\Users\Daniel\Desktop\POO\UNIDAD 2 y 3\Calificaciones\Calificaciones\obj\Debug\Calificaciones.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 2 y 3\Calificaciones\Calificaciones\obj\Debug\Calificaciones.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 2 y 3\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe
+C:\Users\Daniel\Desktop\POO\UNIDAD 2 y 3\Calificaciones\Calificaciones\bin\Debug\Calificaciones.pdb
+C:\Users\Daniel\Desktop\POO\UNIDAD 2 y 3\Calificaciones\Calificaciones\obj\Debug\Calificaciones.frmCalificaciones.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 2 y 3\Calificaciones\Calificaciones\obj\Debug\Calificaciones.Properties.Resources.resources
+C:\Users\Daniel\Desktop\POO\UNIDAD 2 y 3\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.GenerateResource.Cache
